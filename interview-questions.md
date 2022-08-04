@@ -42,3 +42,24 @@ action: "PATCH" location: /students/2 Updates to the student/2 location
 action: "DELETE" location: /students/2 Destroy contents in student/2
 
 5. As a developer, you are making an application to manage your to do list. Create 10 user stories that will help you get your application started. Read more about [user stories](https://www.atlassian.com/agile/project-management/user-stories).
+
+
+1. Create a new project/ rails application break down tasks into small tasks that you can test inorder to make sure the application is working fine.
+
+2. Create a database and make configurations to the specs of the title of the title of the appliction
+
+3. Create models for the required database.
+
+4. Create drawouts for the actual design of the application
+
+5. Create controllers with simple actions.
+
+6. Create the logic for the application.
+
+7. Create routes/ UI for the front-end (actaul page) of the application.
+
+8. Deploy and navigate website to test functionality.
+
+9. Get feedback on the actual site on whats working versus what needs work and additions if any is required from the actual consumers.
+
+10. Fix any bugs/ add additions according to the feedback.
